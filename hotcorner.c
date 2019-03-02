@@ -22,13 +22,13 @@
 
 // Hot corner area offsets relative to top left corner of given monitor.
 static const RECT kHotCornerOffsets = {
-	.top = -20,
-	.left = -20,
-	.right = +20,
-	.bottom = +20,
+	.top = -10,
+	.left = -10,
+	.right = +10,
+	.bottom = +10,
 };
 
-#define MAX_MONITORS 10
+#define MAX_MONITORS 4
 // If the mouse enters any of these rectangles, activate the hot corner function.
 static RECT gHotCorners[MAX_MONITORS];
 static INT gMonitorsCnt = 0;
@@ -167,6 +167,9 @@ finish:
 
 int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
+	// Setting higher priority for process not to lag when system busy
+	SetPriorityClass(GetCurrentProcess(), REALTIME_PRIORITY_CLASS);
+
 	MSG Msg;
 	HHOOK MouseHook;
 
