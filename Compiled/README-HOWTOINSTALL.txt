@@ -15,3 +15,8 @@ C:\Users\[YOUR SPECIFIC USER NAME]\AppData\Roaming\Microsoft\Windows\Start Menu\
 that way you will have hot corners right from the start of your session ...
 
 Enjoy !!!
+
+
+....
+ 
+ OR TO BE HONEST !!!! YOUR CREATE A TASK AS TASK SCHEDULER AND HAVE IT TO TRIGGER WHEN YOUR USER LOGS IN !!!

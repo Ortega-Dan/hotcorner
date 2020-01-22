@@ -19,3 +19,7 @@
 /Debug/hotcorner.obj
 /Debug/vc141.pdb
 /Debug/version.res
+
+
+# VSCODE
+.vscode/*
