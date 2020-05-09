@@ -1,6 +1,7 @@
-FIRST INSTALL ONLY THE EXE FILE SOMEWHERE (WHEREVER YOU WANT) PREFERABLY IN YOUR DOCS FOLDER, only place the dll files in the same directory with the exe if errors pop up at execution.
+FIRST INSTALL ONLY THE EXE FILE SOMEWHERE (WHEREVER YOU WANT) PREFERABLY IN YOUR DOCS FOLDER,\ 
+only place the dll files in the same directory with the exe if errors pop up at execution.
 
-For you to get it running at user log in ...
+To get it running at user log in ... \
 create a Runner.bat file with the following content:
 
 start C:\Users\dev1\Documents\CHotCorners\ChotCorners.exe
