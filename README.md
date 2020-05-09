@@ -70,6 +70,8 @@ GPL3
 
 * Tavis Ormandy [@taviso](https://github.com/taviso/) - Original Author
 * Ahmed Samy [@asamy](https://github.com/asamy) - HotKey support
+* Artur Jamro [@mrowqa](https://github.com/mrowqa) - Multimonitor support
+
 
 ## FAQ
 
