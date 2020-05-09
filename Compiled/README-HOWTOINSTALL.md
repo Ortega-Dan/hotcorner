@@ -1,4 +1,4 @@
-FIRST INSTAL ONLY THE EXE FILE SOMEWHERE (WHEREVER YOU WANT) PREFERABLY IN YOUR DOCS FOLDER, only place the dll files in the same directory with the exe if errors pop up at execution.
+FIRST INSTALL ONLY THE EXE FILE SOMEWHERE (WHEREVER YOU WANT) PREFERABLY IN YOUR DOCS FOLDER, only place the dll files in the same directory with the exe if errors pop up at execution.
 
 For you to get it running at user log in ...
 create a Runner.bat file with the following content:
@@ -19,4 +19,4 @@ Enjoy !!!
 
 ....
  
- OR TO BE HONEST !!!! YOUR CREATE A TASK AS TASK SCHEDULER AND HAVE IT TO TRIGGER WHEN YOUR USER LOGS IN !!!
+ OR TO BE HONEST ! JUST CREATE A TASK FROM TASK SCHEDULER AND HAVE IT TO TRIGGER WHEN YOUR USER LOGS IN !!!
