@@ -1,4 +1,4 @@
-# Tiny Hot Corners for Windows 10
+# Tiny Hot Corners for Windows 10 (With Multiple Monitors Support)
 
 In GNOME 3 whenever you move the mouse to the top left corner, GNOME switches to the activities view, it looks like this:
 
@@ -27,7 +27,7 @@ Zero state is stored anywhere, no registry keys or configuration files.
 
 Change any of the parameters, compile, then install.
 
-A binary is available [here](https://github.com/taviso/hotcorner/releases) if you prefer.
+A binary is available [here](https://github.com/Ortega-Dan/hotcorner/tree/master/Compiled) if you prefer.
 
 ### Building
 
@@ -76,7 +76,7 @@ GPL3
 ## FAQ
 
 * Q: I don't want to compile it, can't you just give me an exe? :(
-* A: Checkout the releases, [here](https://github.com/taviso/hotcorner/releases).
+* A: Checkout the binary precompiled, [here](https://github.com/Ortega-Dan/hotcorner/tree/master/Compiled).
 
 
 * Q: Can you change a setting, and then compile it for me?
