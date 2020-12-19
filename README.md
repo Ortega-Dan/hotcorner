@@ -1,4 +1,4 @@
-# Tiny Hot Corners for Windows 10 (With Multiple Monitors Support)
+# Tiny Hot Corners for Windows 10 (With Multiple Monitors Support & RealTime process priority (Faster response))
 
 In GNOME 3 whenever you move the mouse to the top left corner, GNOME switches to the activities view, it looks like this:
 
