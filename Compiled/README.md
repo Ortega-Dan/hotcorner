@@ -4,7 +4,7 @@ only place the dll files in the same directory with the exe if errors pop up at 
 To get it running at user log in ... \
 create a Runner.bat file with the following content:
 
-start C:\[PathToYourChotCornersDirectory]\ChotCorners.exe
+start C:\\[PathToYourChotCornersDirectory]\ChotCorners.exe
 
 .... end of the content ...
 
